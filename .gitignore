@@ -10,3 +10,4 @@ map
 coverage
 .nyc_output
 .vscode
+.lib
